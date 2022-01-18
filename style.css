@@ -1,0 +1,25 @@
+/* Selector de etiqueta */
+/* El selector de etiqueta aplica los estilos a todas las etiquetas de ese tipo */
+body {
+	background-color: cadetblue;
+}
+
+/* p {
+	background-color: coral;
+} */
+
+/* Selector de ID */
+
+#titulo {
+	color: white;
+}
+
+/* Selector de clase */
+
+.descripcion {
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+#cat {
+	background-color: green;
+}
